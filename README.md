@@ -1,4 +1,4 @@
-#Currency rate
+# Currency rate
 
 task: https://saratov.hh.ru/vacancy/53638235?from=favorite_vacancy_list&hhtmFrom=favorite_vacancy_list
 
