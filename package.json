@@ -1,0 +1,14 @@
+{
+  "name": "currency-rate",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "1.js",
+  "author": "Maksim Abdulkhalikov",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4"
+  }
+}
